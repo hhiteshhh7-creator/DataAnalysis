@@ -5,7 +5,7 @@
 - File: `teaching_prices_messy.csv`
 - SHA-256: `5818dad3807487d4e37f764e5d19cbaa152edd78fe4db182eb28b087c8709d35`
 - Size: 11,256 bytes; 97 data rows + header; 6 columns.
-- Git commit:
+- Git commit: `70d9283` (`attempt-before-AI`, 2026-11-11 23:02 +0500)
 - The raw file is read-only in the notebook; every cleaning run uses `raw.copy()`.
 
 ## What the file looks like before any change
@@ -169,4 +169,4 @@ set(actual_keys) - set(expected_keys)
 ## Snapshot hash
 
 - SHA-256 of `teaching_prices_messy.csv`: `5818dad3807487d4e37f764e5d19cbaa152edd78fe4db182eb28b087c8709d35`
-- Commit `attempt-before-AI`:
+- Commit `attempt-before-AI`: `70d9283` (2026-11-11 23:02 +0500)
