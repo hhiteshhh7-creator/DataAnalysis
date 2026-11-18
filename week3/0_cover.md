@@ -7,7 +7,7 @@
 | Assignment | 3: Two Averages, One Argument (Week 3) |
 | Due | Mon 16 Nov, 23:59 |
 | Grace token used (48h) | [ ] Yes  [x] No |
-| `attempt-before-AI` commit hash | `_filled after commit_` |
+| `attempt-before-AI` commit hash | `ab4af76` (2026-11-18 21:40 +0500) |
 | Data file SHA-256 | `a298f754d72600bdf0552404ebe7a37530c8ca9dd8fc7178945f00f915eb45cd` |
 | AI tool(s) used | Claude Haiku 5.5 (Interpretation Auditor; confused classmate) |
 

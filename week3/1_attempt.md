@@ -5,7 +5,7 @@
 - File: `teaching_prices_clean.csv`
 - SHA-256: `a298f754d72600bdf0552404ebe7a37530c8ca9dd8fc7178945f00f915eb45cd`
 - Size: 11,148 bytes; 96 data rows + header; 6 columns.
-- Git commit: `attempt-before-AI` · `_filled after commit_`
+- Git commit: `attempt-before-AI` · `ab4af76` (2026-11-18 21:40 +0500)
 - The file is read-only; the notebook only reads it and writes no changes back to it.
 
 ## What the file contains
@@ -100,4 +100,4 @@ The note deliberately contains no supported causal sentence. The only `E` senten
 ## Snapshot hash
 
 - SHA-256 of `teaching_prices_clean.csv`: `a298f754d72600bdf0552404ebe7a37530c8ca9dd8fc7178945f00f915eb45cd`
-- Commit `attempt-before-AI`: `_filled after commit_`
+- Commit `attempt-before-AI`: `ab4af76` (2026-11-18 21:40 +0500)
